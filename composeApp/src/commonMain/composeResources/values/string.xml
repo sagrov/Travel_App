@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="home_tab">Головна</string>
+    <string name="fav_tab">Улюблене</string>
+    <string name="profile_tab">Gemini</string>
+    <string name="cart_tab">Кошик</string>
+    <string name="ratting">Рейтинг</string>
+    <string name="type">Тип</string>
+    <string name="estimation">Тривалість</string>
+    <string name="via">Кількість осіб</string>
+    <string name="choose_date">Оберіть дати</string>
+    <string name="choose_meeting_point">Оберіть точку</string>
+    <string name="facilities">Додатково</string>
+    <string name="preview">Превю</string>
+    <string name="favorite_destination">Улюблені локації</string>
+    <string name="popular_destination">Популярні локації</string>
+    <string name="view_all">Подивитись всі</string>
+    <string name="category">Категорії</string>
+    <string name="people">Кількість осіб</string>
+    <string name="all">Всі</string>
+    <string name="num_of_people">Кількість осіб</string>
+    <string name="gemini">Gemini ChatBot</string>
+</resources>
